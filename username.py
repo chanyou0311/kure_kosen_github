@@ -6,6 +6,6 @@ import datetime
 
 sys.stdout = codecs.getwriter('utf_8')(sys.stdout)
 
-username = 'oz2507'
+username = 'tomoohive'
 print(u'こんにちは%s。現在時刻は%sです。' % (username, datetime.datetime.now()))
 
